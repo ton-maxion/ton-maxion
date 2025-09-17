@@ -15,7 +15,6 @@
 
 ## ⚡ GitHub Activity & Insights
 
-- 🔬 **Activity:** Made 66 impactful contributions on GitHub
 - 🌟 **Skills:** Proficient in Blockchain technology with a focus on smart contracts
 - 🖥️ **Coding:** Engaged in project management and collaboration through pull requests
 - 🛠️ **Projects:** Notable repositories include Maxion NFT Marketplace Contracts and Token Swap Contracts
