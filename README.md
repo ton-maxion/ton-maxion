@@ -32,15 +32,6 @@
 ## 📫 Contact Me
 
 - 📧 Email: ton@maxion.tech
-  
----
-
-## 🚀 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ton-maxion)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ton-maxion)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ton-maxion)](https://github.com/ton-maxion)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ton-maxion)](https://git.io/streak-stats)
 
 ---
 
